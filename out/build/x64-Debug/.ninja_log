@@ -1,0 +1,20 @@
+# ninja log v6
+4562	4607	8005549372751303	lib/gtest_maind.lib	78a1e26fa2779ce2
+61	4309	8005549327725762	Google_tests/lib/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	e29c99ea9d1c3f47
+30	1825	8005549327352952	Code_library/CMakeFiles/Code_library.dir/dijkstra_floyd.cpp.obj	157171d9ea759437
+43	2857	8005549327551268	Google_tests/CMakeFiles/Google_Tests_run.dir/Testcases.cpp.obj	8727b181f0fe1349
+26	1915	8005549327352952	Code_library/CMakeFiles/Code_library.dir/graph.cpp.obj	fe547efbe0676e88
+34	2238	8005549327462680	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	8c4d23719719ff67
+55	2951	8005549327665157	Google_tests/lib/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	aa0a8ec07df54df4
+39	2181	8005549327510943	CMakeFiles/Code_library_run.dir/main.cpp.obj	253e7aece9b70c1b
+12	30	8005549326865155	clean	8c45b54705a541e8
+1915	2399	8005549346278709	Code_library/Code_library.lib	1ae28bccae4ef412
+67	3124	8005549327801471	Google_tests/lib/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	c5e3654073c9b073
+2399	3592	8005549351112064	Code_library_run.exe	2df7ca47d0ea40a1
+1826	4280	8005549345396275	Google_tests/lib/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	a7d457099c87290b
+48	4398	8005549327611622	Google_tests/lib/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	725e8f932a6bf96d
+4310	4435	8005549370204652	lib/gmock_maind.lib	21424aa1cae5f70b
+21	4478	8005549327327753	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	971e220680ee67dc
+4399	4513	8005549371054453	lib/gmockd.lib	664b7662246b3fe3
+4478	4562	8005549371864870	lib/gtestd.lib	520f9c20b6588080
+4608	5052	8005549373202996	Google_tests/Google_Tests_run.exe	893e79d745a1f47e
